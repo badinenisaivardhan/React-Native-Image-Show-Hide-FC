@@ -1,6 +1,7 @@
 # Sample Snack app
-![Screenshot 2022-09-03 110955](https://user-images.githubusercontent.com/24708206/188257521-c6e7f3b1-c190-4047-b28b-79699bfadbca.jpg)
 
+![Screenshot 2022-09-03 110955](https://user-images.githubusercontent.com/24708206/188257521-c6e7f3b1-c190-4047-b28b-79699bfadbca.jpg)
+[EXPO-LIVE](https://snack.expo.dev/Z-6jR_v6N)
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
